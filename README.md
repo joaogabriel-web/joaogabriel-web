@@ -107,8 +107,6 @@ I'm always interested in:
 - 🎓 Knowledge sharing and mentoring
 - 🚀 Startups and entrepreneurial ventures
 
-### Hi there 👋
-
 <!--
 **rafaballerini2/rafaballerini2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -136,5 +134,4 @@ This profile README is open for inspiration and contributions. Feel free to use 
 ---
 
 **⭐ If you find any of my projects useful, please consider starring them! It means a lot!**
-
 ![Snake animation](https://github.com/joaogabriel-web/joaogabriel-web/blob/output/github-contribution-grid-snake.svg)
