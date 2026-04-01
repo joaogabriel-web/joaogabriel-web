@@ -80,8 +80,9 @@ Brief description of your third project.
 ---
 
 ## 🌐 Connect With Me
-
+<!--
 - 📧 Email: [joao.gabriel.msilva10l@gmail.com](mailto:joao.gabriel.msilva10l@gmail.com)
+-->
 - 💼 LinkedIn: [LinkedIn Profile](https://linkedin.com/in/yourprofile)
 <!--
 - 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
@@ -89,7 +90,7 @@ Brief description of your third project.
 - 🌍 Portfolio: [Your Website](https://yourwebsite.com)
 <!--
 - 💻 Blog: [Dev.to](https://dev.to/yourprofile) or [Medium](https://medium.com/@yourprofile)
--->
+
 ---
 
 ## 📝 Latest Blog Posts
