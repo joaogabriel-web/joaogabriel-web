@@ -58,7 +58,7 @@ I've worked on diverse projects spanning:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaogabriel-web&layout=compact&theme=radical)
 
----
+<!--
 
 ## 🎯 Featured Projects
 
@@ -76,22 +76,25 @@ Brief description of your second project.
 Brief description of your third project.
 - **Tech Stack**: Python, Django, AWS
 - **Highlights**: Key features or achievements
-
+-->
 ---
 
 ## 🌐 Connect With Me
 
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
+- 📧 Email: [joao.gabriel.msilva10l@gmail.com](mailto:joao.gabriel.msilva10l@gmail.com)
 - 💼 LinkedIn: [LinkedIn Profile](https://linkedin.com/in/yourprofile)
+<!--
 - 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
+-->
 - 🌍 Portfolio: [Your Website](https://yourwebsite.com)
+<!--
 - 💻 Blog: [Dev.to](https://dev.to/yourprofile) or [Medium](https://medium.com/@yourprofile)
-
+-->
 ---
 
 ## 📝 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START 
 - [Blog Post Title 1](link)
 - [Blog Post Title 2](link)
 - [Blog Post Title 3](link)
