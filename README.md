@@ -13,7 +13,7 @@ I'm a full-stack developer with a strong passion for clean code, scalable archit
 - 💬 Ask me about web development, software design, or open-source
 - ⚡ Fun fact: I love contributing to the community!
 - 📫 Feel free to reach out for collaborations
-
+<!--
 ---
 
 ## 💼 Professional Experience
@@ -23,7 +23,7 @@ I've worked on diverse projects spanning:
 - **Cloud-based solutions**
 - **API development and integration**
 - **Database architecture and optimization**
-
+-->
 ---
 
 ## 🛠️ Tech Stack
@@ -32,7 +32,7 @@ I've worked on diverse projects spanning:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
+<!--
 ### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
@@ -43,7 +43,7 @@ I've worked on diverse projects spanning:
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-
+-->
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -108,7 +108,7 @@ I'm always interested in:
 - 🚀 Startups and entrepreneurial ventures
 
 <!--
-**rafaballerini2/rafaballerini2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -125,7 +125,7 @@ Here are some ideas to get you started:
 
 Feel free to fork my repositories, open issues, or reach out for collaboration opportunities!
 
----
+<!--
 
 ## 📄 License
 
@@ -135,3 +135,4 @@ This profile README is open for inspiration and contributions. Feel free to use 
 
 **⭐ If you find any of my projects useful, please consider starring them! It means a lot!**
 ![Snake animation](https://github.com/joaogabriel-web/joaogabriel-web/blob/output/github-contribution-grid-snake.svg)
+-->
