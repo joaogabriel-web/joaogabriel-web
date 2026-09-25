@@ -8,8 +8,8 @@ Desenvolvedor de Software apaixonado por criar soluções inovadoras e escaláve
 
 - 🎓 **Formação**: Engenharia de Software (UNICATÓLICA - 2º semestre)
 - 🚀 **Programa**: Jovem Programador 2026 - SENAC Santa Catarina
-- 💻 **Foco**: Full-stack development com ênfase em Web e Integração Hardware/Software
-- 🌱 **Aprendizado Contínuo**: Web com IA, Banco de Dados, Desenvolvimento Back-end
+- 💻 **Foco**: Full-stack development com ênfase em Web e Integração Hardware/Software e Cybersecurity em geral
+- 🌱 **Aprendizado Contínuo**: Web com IA, Banco de Dados, Desenvolvimento Back-end, Segurança da Informação
 - 📫 **Disponível para**: Colaborações, projetos open-source e oportunidades de aprendizado
 
 ---
